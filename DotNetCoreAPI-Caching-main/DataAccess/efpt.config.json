@@ -1,0 +1,77 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "PanditClinicContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DataAccess",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AdvanceMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EntityMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InvoiceDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InvoiceHeader]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[InvoicePaymentDetails]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PatientMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PaymentMode]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RoleMaster]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[UserMaster]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "zingwork7\\sqlexpress.PanditClinic.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
